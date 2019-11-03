@@ -5,12 +5,12 @@ Landing Pages são muito utilizadas em ações de marketing digital. Nesse forma
 Html5 e css3.
 # Screenshots
 
-![home]()
+![home](https://github.com/Alef011/Landing-Page/blob/master/OnePage/home.png)
 
-![empresa]()
+![empresa](https://github.com/Alef011/Landing-Page/blob/master/OnePage/empresa.png)
 
-![servicos]()
+![servicos](https://github.com/Alef011/Landing-Page/blob/master/OnePage/servico.png)
 
-![contato]()
+![contato](https://github.com/Alef011/Landing-Page/blob/master/OnePage/contato.png)
 
 [![Funcionando](http://img.youtube.com/vi/NrpnkvXcFjM/0.jpg)](http://www.youtube.com/watch?v=NrpnkvXcFjM "Veja funcionando")
