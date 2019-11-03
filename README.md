@@ -1,5 +1,5 @@
 # One Page
-ma one page é um site onde você pode incluir todas as informações do seu negócio com criatividade, em um único espaço. 
+Uma one page é um site onde você pode incluir todas as informações do seu negócio com criatividade, em um único espaço. 
 
 # Tecnologias Utilizadas
 Html5 e css3.
